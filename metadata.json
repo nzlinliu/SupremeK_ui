@@ -1,0 +1,6 @@
+{
+  "name": "Supreme Kitchens — 设计部 IT 培训演示系统",
+  "description": "专为 Supreme Kitchens (NZ) 设计部门定制的 60 分钟日常电脑排障、CAD/渲染工作站维护与 IT 支持升级指南培训 PPT 系统，支持全屏演讲、计时讲稿与一键导出 .pptx 文件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
